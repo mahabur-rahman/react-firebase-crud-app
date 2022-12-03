@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+}
+
+h1 {
+    margin: 0.5rem;
+}
+
+.main_div {
+    background-color: aliceblue;
+    padding: 3rem;
+    text-align: center;
+    text-transform: capitalize;
+}
